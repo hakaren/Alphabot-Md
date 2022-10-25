@@ -26,8 +26,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Males-Mdོ" //namabot kalian
-global.ownername= "Wå.mê/Äkmål🐤" //nama kalian
+global.botname = "jega-Mdོ" //namabot kalian
+global.ownername= "Wå.mê/aga🐤" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
